@@ -1,0 +1,14 @@
+{
+    "friends":[
+        {
+            "_id":1,
+            "name":"vincent",
+            "email":"vincent@triptyk.eu"
+        }, {
+            "_id":2,
+            "name":"stéphane",
+            "email":"stéphane@triptyk.eu"
+        }
+    ]
+    
+}
