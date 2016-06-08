@@ -1,0 +1,14 @@
+{
+  "name": "exo03",
+  "version": "1.0.0",
+  "description": "Exercice 3 nodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seb",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0"
+  }
+}
